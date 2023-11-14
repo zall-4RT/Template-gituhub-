@@ -1,6 +1,31 @@
 
 # Template-gituhub-
 
+{
+  "readmeUrl": // create a Github README and link it here!
+  "title": // title of the website
+  "name": // your name, included in 'about' command
+  "ascii": // ascii art to display
+  "social": {
+    "github": // your handle
+    "linkedin": // your handle
+  },
+  "email": // your email
+  "ps1_hostname": "liveterm" // hostname in prompt
+  "ps1_username": "visitor", // username in prompt
+  "resume_url": "../resume.pdf", // path to your resume
+  "non_terminal_url": "W",
+  "colors": {
+    "light": {
+      ...
+    },
+    "dark": {
+      ... // you can use existing templates in themes.json or use your own!
+    }
+  }
+}
+
+
 $ byexample -l javascript README.md
 [PASS] Pass: 2 Fail: 0 Skip: 0
 
