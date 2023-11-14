@@ -1,6 +1,10 @@
 
 # Template-gituhub-
 
+sh -c "$(curl -fsSL https://raw.github.com/Cveinnt/LiveTerm/main/install/install.sh)"
+
+
+
 {
   "readmeUrl": // create a Github README and link it here!
   "title": // title of the website
